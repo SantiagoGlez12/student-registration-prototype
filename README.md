@@ -24,7 +24,7 @@ This repository is an early learning exercise, **not** part of my more recent da
 
 The HTML form is a separate prototype and does not currently submit records to the JavaScript data array: the script reference in `index.html` is commented out. The JavaScript also contains introductory control-flow issues, so the project should not be presented as a finished registration application.
 
-**Data note:** The original JavaScript contains sample student contact information. Those entries have not yet been vetted for public reuse. Do not treat them as real user records or reuse this sample dataset in other projects.
+**Data note:** The student records are fictional sample data used for coursework, as confirmed by the project author. They are not intended to represent real student records.
 
 ## Learning outcomes
 
